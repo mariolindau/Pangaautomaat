@@ -29,7 +29,7 @@ def main():
         print("Vale kasutajanimi või parool!")
         return
 
-    print("Sisselogimine edukas! Tere tulemast pangaautomaati.")
+    print("Sisselogimine edukas! Tere tulemast oma pangakontole.")
     account = BankAccount()
 
     while True:
